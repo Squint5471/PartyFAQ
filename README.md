@@ -96,4 +96,4 @@ Fragen? Melde dich einfach bei [Name einfügen]
 ---
 
 **Wir freuen uns riesig auf dich! 💛**  
-*– dein FOURTYVAL-Crew*
+*Deine FOURTYVAL-Crew*
