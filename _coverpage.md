@@ -1,14 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](flyer.jpg)
-
 # docsify <small>3.5</small>
 
-> A magical documentation site generator.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+<!-- background image -->
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+![](background.jpg)
+
+<!-- background color -->
+
+![color](#f0f0f0)
