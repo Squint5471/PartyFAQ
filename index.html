@@ -16,8 +16,14 @@
       coverpage: false,
       mergeNavbar: true,
       formatUpdated: '{DD}.{MM}.{YY} {HH}:{mm}'
-    }
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: [], // or 'auto'
+        placeholder: 'Suchen',
+        noData: 'Keine Ergebnisse!',
+      }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
