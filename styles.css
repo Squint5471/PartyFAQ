@@ -13,13 +13,13 @@ body {
   margin: 20px;
   border-radius: 12px;
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
-  margin-top: 40px !important; /* Höhe des Banners */
+  margin-top: 33px !important; /* Höhe des Banners */
 }
 
 .sidebar {
   background-color: #1a2634;
   color: #a8c5e0;
-  top: 40px !important; /* Höhe des Banners */
+  top: 33px !important; /* Höhe des Banners */
   height: calc(100vh - 40px) !important;
   margin-top: 0 !important;
   padding-top: 2rem !important;
@@ -53,11 +53,21 @@ body {
   color: #ffffff;
   border: none;
   border-radius: 4px;
-	background-color: unset;
-	position: fixed !important;
-	top: 0 !important;
-	bottom: auto !important;
-	padding: 10px 10px 10px 10px !important;
+  background-color: unset;
+  position: fixed !important;
+  top: 33px !important;
+  bottom: auto !important;
+  padding: 12px !important;
+  width: 40px !important;
+  height: 40px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  z-index: 999 !important;
+}
+
+.sidebar-toggle span {
+  transform: scale(1.5);
 }
 
 @media screen and (max-width: 768px) {
@@ -78,16 +88,18 @@ body {
   right: 0 !important;
   height: 40px !important;
   background-color: #e3efff !important;
-  z-index: 9999 !important;
+  z-index: 1000 !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
+  text-align: center !important;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1) !important;
 }
 
 .docsify-top-banner-container {
   width: 100% !important;
   max-width: 1200px !important;
-  padding: 0 20px !important;
+  padding: 0 50px !important;
   display: flex !important;
   justify-content: center !important;
   align-items: center !important;
