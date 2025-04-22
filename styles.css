@@ -96,6 +96,7 @@ body {
   width: 100%;
   padding: 0 350px;
   top: 0;
+  background-color: #e3efff !important;
 }
 #TOPBANNER p {
   margin: 0;
@@ -109,43 +110,64 @@ body {
   letter-spacing: 1px;
 }
 
-/* Suchleisten-Styling */
-.search {
-  margin-bottom: 2rem !important;
-  padding: 6px !important;
+
+/* Search Styling - Verbessert */
+.sidebar .search {
+  margin: 1rem 0 2rem 0 !important;
+  padding: 0 1rem !important;
 }
 
-.search input {
-  background-color: rgba(255, 255, 255, 0.1) !important;
-  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+.sidebar .search input[type="search"] {
+  background: rgba(255, 255, 255, 0.08) !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
   color: #ffffff !important;
   border-radius: 4px !important;
+  padding: 0.5rem 1rem !important;
+  width: 100% !important;
+  font-size: 0.9rem !important;
 }
 
-.search input:focus {
-  box-shadow: 0 0 5px rgba(74, 158, 255, 0.3) !important;
+.sidebar .search input[type="search"]:focus {
+  background: rgba(255, 255, 255, 0.12) !important;
   border-color: #4a9eff !important;
+  box-shadow: 0 0 0 2px rgba(74, 158, 255, 0.25) !important;
+  outline: none !important;
 }
 
-.search input::placeholder {
-  color: rgba(255, 255, 255, 0.6) !important;
+.sidebar .search input[type="search"]::placeholder {
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
-/* Suchergebnisse-Styling */
-.search .results-panel {
-  background-color: #1a2634 !important;
+.sidebar .results-panel {
+  background: #233446 !important;
   color: #ffffff !important;
-  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 4px !important;
+  margin-top: 0.5rem !important;
+  max-height: 450px !important;
+  overflow-y: auto !important;
 }
 
-.search .matching-post {
+.sidebar .matching-post {
+  padding: 0.75rem 1rem !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
 }
 
-.search .matching-post:last-child {
-  border-bottom: none !important;
+.sidebar .matching-post:hover {
+  background: rgba(255, 255, 255, 0.05) !important;
+}
+
+.sidebar .matching-post h2 {
+  font-size: 0.95rem !important;
+  margin: 0 !important;
+  color: #a8c5e0 !important; /* Anpassung an die Sidebar-Textfarbe */
+}
+
+.sidebar .matching-post p {
+  font-size: 0.85rem !important;
+  margin: 0.25rem 0 0 0 !important;
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .docsify-top-banner {
-  z-index: 1000 !important; /* Zwischen Sidebar und Content */
+  z-index: 1003 !important; /* Höher als alle anderen Elemente */
 }
