@@ -95,5 +95,9 @@ Fragen? Melde dich einfach bei [Name einfügen]
 
 ---
 
+## Updates
+
+Letztes Update: TEST
+
 **Wir freuen uns riesig auf dich! 💛**  
-*Deine FOURTYVAL-Crew*
+*Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian*
