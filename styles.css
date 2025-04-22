@@ -89,22 +89,24 @@ body {
 
 /* Banner Styling */
 #TOPBANNER {
-  display:block;
-  height:2rem;
-  width:100%;
-  padding:0 350px;
-  /*line-height:.1rem;*/
-  top:0
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 3rem;
+  width: 100%;
+  padding: 0 350px;
+  top: 0;
 }
 #TOPBANNER p {
-  margin:auto;
-  height:100%;
-  padding:.5rem 0
+  margin: 0;
+  display: flex;
+  align-items: center;
+  height: 100%;
 }
 #TOPBANNER a {
-  margin:auto 5px;
-  font-size:1.1rem;
-  letter-spacing:1px
+  margin: auto 5px;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
 }
 
 /* Suchleisten-Styling */
