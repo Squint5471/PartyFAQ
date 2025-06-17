@@ -1,9 +1,9 @@
 # 🎪 FOURTYVAL – FAQ zum Geburtstagsfestival
 
 **01.08. – 03.08.2025**  
-📍 *Sportgelände XXX*
+📍 *Festival-Gelände (siehe WhatsApp-Community)*
 
-Willkommen zum vielleicht entspanntesten Festival des Jahres – wir feiern nicht nur einen Geburtstag, sondern ein ganzes Jahrzehnt!
+Willkommen zum vielleicht entspanntesten Festival des Jahres – wir feiern nicht nur einen Geburtstag, sondern 4x4 Jahrzehnte!
 
 ---
 
@@ -17,15 +17,15 @@ Willkommen zum vielleicht entspanntesten Festival des Jahres – wir feiern nich
 🕑 Samstag, 02.08. ab 14:00 Uhr  
 🎵 Mit: Markus, Christian, Frank & Sebastian
 
-Sonntag ist Ausklingen, Ausschlafen, Abbauen, Abhängen 😊
+Sonntag ist Ausklingen, Ausschlafen, Abbauen, Abhängen angesagt 😊
 
 ---
 
 ## 📍 Wo?
 
-**Sportgelände in XXX**  
-📌 [Maps-Link einfügen]  
-Genug Platz für Zelte, Busse, Lagerfeuerromantik und Sternenhimmel.
+**Festival-Gelände**
+📌 siehe WhatsApp-Community  
+Genug Platz für jede Menge Spaß!
 
 ---
 
@@ -35,34 +35,37 @@ Yes!
 Zelt, Camper, Luftmatratze – alles willkommen.  
 Vor Ort kannst du flexibel bleiben, es gibt Wiese und Platz.
 
-🧼 Sanitär? Natürlich, einfach & funktional.
+🧼 Sanitär? Natürlich, voll ausgestattet im Sportheim – sogar mit Duschen.
 
 ---
 
 ## 🍔 Was gibt’s zu essen & trinken?
 
 Wir kümmern uns um:
-- Grill (mit Veggie-Optionen)
-- Snacks & Salate
-- Bier, Wein, Wasser, Limo
 
+- Grillmöglichkeiten
+- Beilagen wie Brötchen und Soßen
+- Bier, Wein, Sekt, Wasser, Limo
+
+Von euch mitzubringen:
+
+- Grillgut, Snacks, Salate oder Nachtisch
+- Schnaps und besondere Misch-Getränke
 Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹
 
 ---
 
 ## 🎁 Geschenke?
 
-Dein Kommen ist Geschenk genug.  
-Wenn du was beisteuern willst:  
-**Bring ein bisschen Festival-Feeling mit – ob Deko, Musik, Spiel oder was zum Teilen.**
+Dein Kommen ist Geschenk genug.
+Wenn du dennoch etwas beisteuern willst:
+**Bring ein bisschen Festival-Feeling mit – ob Deko, Musik, Spiel oder was zum Teilen. Zusätzlich wird es vor Ort einen PayPal-Link geben, falls du uns unterstützen möchtest.**
 
 ---
 
 ## 🎶 Musik & Vibes
 
-Es wird Musik geben – live & aus der Dose.  
-Bring Instrumente, Lautsprecher, Playlists – oder einfach gute Stimmung!
-
+Es wird hauptsächlich Elektro laufen – tagsüber House, abends Hip Hop und Techno.  
 Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.
 
 ---
@@ -78,20 +81,20 @@ Abends wird’s frisch – Hoodie einpacken!
 ## 🧒 Kids & Dogs?
 
 - Kinder willkommen!
-- Hunde? Bitte vorher mit uns abklären 🐶
+- Hunde oder andere Haustiere? Bitte besser zuhause lassen 🐶
 
 ---
 
 ## 📢 Wichtiger Hinweis
 
-👉 Gib uns **bitte bis zum 30. April 2025** Bescheid, ob du dabei bist – damit wir besser planen können.
+👉 Gib uns **bitte bis zum 30. Mai 2025** Bescheid, ob du dabei bist – damit wir besser planen können.
 
 ---
 
 ## 📞 Kontakt
 
-Fragen? Melde dich einfach bei [Name einfügen]  
-📱 [Telefonnummer / WhatsApp-Link]
+Fragen? Melde dich einfach bei uns:
+📱 WhatsApp-Link
 
 ---
 
@@ -101,3 +104,15 @@ Letztes Update: TEST
 
 **Wir freuen uns riesig auf dich! 💛**  
 *Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian*
+
+---
+
+## 🚀 Die Kurzfassung für alle mit der Aufmerksamkeit eines Goldfischs 😄
+
+- **Wann:** 01.08. - 03.08.2025
+- **Wo:** Siehe WhatsApp-Community
+- **Übernachten:** Ja, vor Ort in Zelt/Sportheim/Camper möglich
+- **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
+- **Geschenke:** Dein Kommen ist Geschenk genug...aber Deko, Salate oder Spiele sind willkommen
+- **Musik:** House, Hip Hop, Techno
+- **Wichtig:** Kinder willkommen
