@@ -14,7 +14,7 @@ Welcome to FOURTYVAL - wir feiern nicht nur einen Geburtstag, sondern 4 x 4 Jahr
 Mit: Frank & Sebastian
 
 **Main Event:**  
-🕑 Samstag, 02.08. ab 14:00 Uhr
+🕑 Samstag, 02.08. ab 14:00 Uhr  
 Mit: Markus, Christian, Frank & Sebastian
 
 **After hour:**
@@ -33,7 +33,7 @@ Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Ad
 
 Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - alles ist willkommen.
 
-🧼 Sanitär? Natürlich, voll ausgestattet im Sportheim – sogar mit Duschen.
+🧼 Sanitär? Natürlich! Voll ausgestattet im Sportheim – sogar mit Duschen.
 
 ---
 
@@ -47,12 +47,12 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)
 
 **Von euch mitzubringen:**
+Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹  
+🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
 
 - Grillgut, Snacks, Salate oder Nachtisch
 - Schnaps und besondere Misch-Getränke
-- Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
-Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹
-🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
+- Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)  
 
 ---
 
@@ -81,8 +81,8 @@ Abends wird’s frisch – Hoodie einpacken!
 
 ## 🧒 Kids & Dogs?
 
-- Kinder willkommen!
-- Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
+Kinder willkommen!
+Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
 
 ---
 
