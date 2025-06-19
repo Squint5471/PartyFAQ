@@ -37,13 +37,15 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 
 ## 🍔 Was gibt’s zu essen & trinken?
 
-Wir kümmern uns um:
+**Wir kümmern uns um:**
+
 - Grill-Möglichkeiten
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)
 
-Von euch mitzubringen:
+**Von euch mitzubringen:**
+
 - Grillgut, Snacks, Salate oder Nachtisch
 - Schnaps und besondere Misch-Getränke
 - Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
