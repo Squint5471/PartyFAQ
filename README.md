@@ -17,8 +17,8 @@ Mit: Frank & Sebastian
 🕑 Samstag, 02.08. ab 14:00 Uhr  
 Mit: Markus, Christian, Frank & Sebastian
 
-**After hour:**
-🕑 Sonntag, 03.08.
+**After hour:**  
+🕑 Sonntag, 03.08.  
 Ausklingen, Ausschlafen, Abbauen, Abhängen angesagt 😊
 
 ---
@@ -46,7 +46,8 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)
 
-**Von euch mitzubringen:**
+**<u>Von euch mitzubringen:</u>**
+
 Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹  
 🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
 
