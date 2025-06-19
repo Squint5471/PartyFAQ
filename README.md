@@ -11,13 +11,15 @@ Welcome to FOURTYVAL - wir feiern nicht nur einen Geburtstag, sondern 4 x 4 Jahr
 
 **Opening:**  
 🕕 Freitag, 01.08. ab 18:00 Uhr  
-🎶 Mit: Frank & Sebastian
+Mit: Frank & Sebastian
 
 **Main Event:**  
-🕑 Samstag, 02.08. ab 14:00 Uhr  
-🎵 Mit: Markus, Christian, Frank & Sebastian
+🕑 Samstag, 02.08. ab 14:00 Uhr
+Mit: Markus, Christian, Frank & Sebastian
 
-Sonntag ist Ausklingen, Ausschlafen, Abbauen, Abhängen angesagt 😊
+**After hour:**
+🕑 Sonntag, 03.08.
+Ausklingen, Ausschlafen, Abbauen, Abhängen angesagt 😊
 
 ---
 
