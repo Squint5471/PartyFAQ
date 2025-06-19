@@ -52,6 +52,7 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 - Schnaps und besondere Misch-Getränke
 - Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
 Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹
+🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
 
 ---
 
