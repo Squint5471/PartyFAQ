@@ -23,8 +23,7 @@ Sonntag ist Ausklingen, Ausschlafen, Abbauen, Abhängen angesagt 😊
 
 ## 📍 Wo?
 
-**Festival-Gelände**
-📌 Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Adresse und den exakten Standort findest du in der WhatsApp-Gruppe / Community.
+Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Adresse und den exakten Standort 📌 findest du in der WhatsApp-Community.
 
 ---
 
@@ -84,7 +83,7 @@ Abends wird’s frisch – Hoodie einpacken!
 
 ## 📞 Kontakt
 
-Fragen? Melde dich gerne direkt bei deinen Fourtyval-Gastgebern oder in der WhatsApp-Gruppe.
+Fragen? Melde dich gerne direkt bei deinen Fourtyval-Gastgebern oder in der WhatsApp-Community.
 
 ---
 
@@ -96,7 +95,7 @@ Fragen? Melde dich gerne direkt bei deinen Fourtyval-Gastgebern oder in der What
 ## 🚀 Die Kurzfassung für alle mit der Aufmerksamkeit eines Goldfischs 😄
 
 - **Wann:** 01.08. - 03.08.2025
-- **Wo:** Siehe WhatsApp-Gruppe
+- **Wo:** Siehe WhatsApp-Community
 - **Übernachten:** Ja, vor Ort in Zelt/Sportheim/Camper möglich
 - **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
 - **Geschenke:** Dein Kommen ist Geschenk genug...aber Deko, Salate oder Spiele sind willkommen
