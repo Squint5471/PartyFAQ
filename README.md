@@ -60,7 +60,8 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 ## 🎁 Geschenke?
 
 Dein Kommen ist Geschenk genug.
-Wenn du dennoch etwas beisteuern willst:<br/>
+Wenn du dennoch etwas beisteuern willst:  
+
 **Bring neben Festival-Laune gerne Deko, Spiele oder etwas zum Teilen mit. Zusätzlich wird es vor Ort einen PayPal-Link geben, falls du uns unterstützen möchtest.**
 
 ---
