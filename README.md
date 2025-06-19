@@ -61,7 +61,7 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 
 Dein Kommen ist Geschenk genug.
 Wenn du dennoch etwas beisteuern willst:  
-
+<br/>
 **Bring neben Festival-Laune gerne Deko, Spiele oder etwas zum Teilen mit. Zusätzlich wird es vor Ort einen PayPal-Link geben, falls du uns unterstützen möchtest.**
 
 ---
@@ -83,7 +83,7 @@ Abends wird’s frisch – Hoodie einpacken!
 
 ## 🧒 Kids & Dogs?
 
-Kinder willkommen!
+Kinder willkommen!<br/>
 Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
 
 ---
