@@ -60,7 +60,8 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 ## 🎁 Geschenke?
 
 Dein Kommen ist Geschenk genug.
-Wenn du dennoch etwas beisteuern willst:
+Wenn du dennoch etwas beisteuern willst:  
+
 **Bring neben Festival-Laune gerne Deko, Spiele oder etwas zum Teilen mit. Zusätzlich wird es vor Ort einen PayPal-Link geben, falls du uns unterstützen möchtest.**
 
 ---
@@ -94,7 +95,7 @@ Fragen? Melde dich gerne direkt bei deinen Fourtyval-Gastgebern oder in der What
 ---
 
 **Wir freuen uns riesig auf dich! 💛**  
-*Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian*
+Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 
 ---
 
