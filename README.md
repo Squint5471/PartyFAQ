@@ -25,7 +25,7 @@ Ausklingen, Ausschlafen, Abbauen, Abhängen angesagt 😊
 
 ## 📍 Wo?
 
-Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Adresse und den exakten Standort 📌 findest du in der WhatsApp-Community.
+Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Adresse und den exakten Standort 📌 findest du in der WhatsApp-Community. Parkmöglichkeiten sind vor Ort ausreichend vorhanden.
 
 ---
 
@@ -49,11 +49,12 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 **<u>Von euch mitzubringen:</u>**
 
 Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹  
-🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
 
 - Grillgut, Snacks, Salate oder Nachtisch
 - Schnaps und besondere Misch-Getränke
-- Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)  
+- Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
+
+🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
 
 ---
 
@@ -77,7 +78,7 @@ Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.
 
 Festival-Style - Alles ist erlaubt!
 Bequem, wetterfest, tanzbar.  
-Abends wird’s frisch – Hoodie einpacken!
+Abends wird’s frisch – leichte Jacke einpacken!
 
 ---
 
