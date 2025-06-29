@@ -41,7 +41,7 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 
 **Wir kümmern uns um:**
 
-- Grill-Möglichkeiten
+- Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)
