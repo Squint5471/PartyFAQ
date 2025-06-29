@@ -39,7 +39,7 @@ Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - all
 
 ## 🍔 Was gibt’s zu essen & trinken?
 
-**Wir kümmern uns um:**
+**<u>Wir kümmern uns um:</u>**
 
 - Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
