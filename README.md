@@ -84,13 +84,15 @@ Wenn du dennoch etwas beisteuern willst:
 
 ## ⚽ Spiele
 
-Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen. Bringt gerne Spielgeräte wie Bälle, Netze usw mit!
+Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen.
+Bringt gerne Spielgeräte wie Bälle, Netze usw mit!
 
 ---
 
 ## 🎶 Musik & Vibes
 
-Es wird hauptsächlich Elektro laufen – tagsüber House, abends Hip Hop und Techno.  
+Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.
+**Freut euch auf einen Überraschungs-DJ der uns einheizen wird!**
 Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.
 
 ---
