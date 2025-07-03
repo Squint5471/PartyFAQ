@@ -47,8 +47,9 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 
 ## 😊 Sonstige Ausstattung
 
-🧼 Sanitär? Natürlich! Voll ausgestattet im Sportheim – sogar mit Duschen.<br/>
-🪑 Bierbänke? Klar, die gibt's auch! Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder -liegen mitbringen.
+🧼 Sanitär? Natürlich! Voll ausgestattet im Sportheim – sogar mit Duschen.  
+🪑 Bierbänke? Klar, die gibt's auch!  
+**Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder -liegen mitbringen.**
 
 ---
 
@@ -76,7 +77,7 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 ## 🎁 Geschenke?
 
 Dein Kommen ist Geschenk genug.
-Wenn du dennoch etwas beisteuern willst:<br/>
+Wenn du dennoch etwas beisteuern willst:  
 **Bring neben Festival-Laune gerne Deko oder etwas zum Teilen wie Salate oder Nachtisch mit. Zusätzlich wird es vor Ort einen PayPal-Link geben, falls du uns unterstützen möchtest.**
 
 ---
@@ -90,23 +91,23 @@ Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder 
 
 ## 🎶 Musik & Vibes
 
-Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.<br/>
-**Freut euch auf einen Überraschungs-DJ der uns einheizen wird!**<br/>
-Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.
+Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.  
+Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.  
+**Freut euch auf einen Überraschungs-DJ, der uns einheizen wird!**
 
 ---
 
 ## 👕 Dresscode?
 
-Festival-Style - Alles ist erlaubt!<br/>
-Bequem, wetterfest, tanzbar.<br/>
+Festival-Style - Alles ist erlaubt!  
+Bequem, wetterfest, tanzbar.  
 Abends wird’s frisch – leichte Jacke einpacken!
 
 ---
 
 ## 🧒 Kids & Dogs?
 
-Kinder willkommen!<br/>
+Kinder willkommen!  
 Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
 
 ---
