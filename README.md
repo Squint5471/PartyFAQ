@@ -35,7 +35,7 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 
 ---
 
-## 🌦️ Wetter-Schutz
+## 🌦️ Wetterschutz
 
 **Bei schlechtem Wetter sind wir bestens ausgerüstet:**
 
