@@ -129,6 +129,6 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 - **Übernachten:** Ja, vor Ort in Zelt/Sportheim/Camper möglich
 - **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
 - **Wetterschutz:** Pavillons, Vordach & Vereinsheim nutzbar
-- **Geschenke:** Dein Kommen ist Geschenk genug...aber Deko, Salate, Spiel-Geräte oder PayPal-Unterstützungen sind willkommen
+- **Geschenke:** Dein Kommen ist Geschenk genug...aber Salate, Deko oder PayPal-Unterstützungen sind willkommen
 - **Musik:** House, Hip Hop, Techno
 - **Wichtig:** Kinder willkommen
