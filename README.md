@@ -33,10 +33,22 @@ Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Ad
 
 Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vereinsheim - alles ist willkommen.
 
+---
+
+## 🌦️ Wetter-Schutz
+
+**Bei schlechtem Wetter sind wir bestens ausgerüstet:**
+
+- Mehrere Pavillons stehen bereit für Schutz vor Regen oder zu viel Sonne ☂️
+- Das Vereinsheim bietet unter dem großen Vordach zusätzlichen überdachten Platz für alle Gäste
+- Die Party geht auch bei Regen weiter - nur eben unter Dach! 🏠
+
+---
+
 ## 😊 Sonstige Ausstattung
 
 🧼 Sanitär? Natürlich! Voll ausgestattet im Sportheim – sogar mit Duschen.<br/>
-Biergarnituren? Klar, die gibt's auch! Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder<br/> -liegen mitbringen.
+Bierbänke? Klar, die gibt's auch! Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder<br/> -liegen mitbringen.
 
 ---
 
@@ -108,6 +120,7 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 - **Wo:** Siehe WhatsApp-Community; Parkplätze vorhanden
 - **Übernachten:** Ja, vor Ort in Zelt/Sportheim/Camper möglich
 - **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
-- **Geschenke:** Dein Kommen ist Geschenk genug...aber Deko, Salate oder Spiele sind willkommen
+- **Wetter:** Pavillons, Vordach & Vereinsheim als Wetterschutz vorhanden
+- **Geschenke:** Dein Kommen ist Geschenk genug...aber Deko, Salate, Spiel-Geräte oder PayPal-Unterstützungen sind willkommen
 - **Musik:** House, Hip Hop, Techno
 - **Wichtig:** Kinder willkommen
