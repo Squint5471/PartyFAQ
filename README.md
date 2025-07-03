@@ -39,9 +39,9 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 
 **Bei schlechtem Wetter sind wir bestens ausgerüstet:**
 
-- Mehrere Pavillons stehen bereit für Schutz vor Regen oder zu viel Sonne ☂️
-- Das Vereinsheim bietet unter dem großen Vordach zusätzlichen überdachten Platz für alle Gäste
-- Die Party geht auch bei Regen weiter - nur eben unter Dach! 🏠
+- Mehrere Pavillons stehen für Schutz vor Regen oder zu viel Sonne ☂️ bereit.
+- Das Vereinsheim bietet unter dem großen Vordach zusätzlichen überdachten Platz für alle Gäste.
+- Die Party geht auch bei Regen weiter - nur eben unter dem Dach! 🏠
 
 ---
 
@@ -120,7 +120,7 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 - **Wo:** Siehe WhatsApp-Community; Parkplätze vorhanden
 - **Übernachten:** Ja, vor Ort in Zelt/Sportheim/Camper möglich
 - **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
-- **Wetterschutz:** Pavillons, Vordach & Vereinsheim als Wetterschutz vorhanden
+- **Wetterschutz:** Pavillons, Vordach & Vereinsheim nutzbar
 - **Geschenke:** Dein Kommen ist Geschenk genug...aber Deko, Salate, Spiel-Geräte oder PayPal-Unterstützungen sind willkommen
 - **Musik:** House, Hip Hop, Techno
 - **Wichtig:** Kinder willkommen
