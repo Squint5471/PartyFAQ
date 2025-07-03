@@ -36,7 +36,7 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 ## 😊 Sonstige Ausstattung
 
 🧼 Sanitär? Natürlich! Voll ausgestattet im Sportheim – sogar mit Duschen.<br/>
-Biergarnituren? Klar, die gibt's auch! Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder -liegen mitbringen.
+Biergarnituren? Klar, die gibt's auch! Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder<br/> -liegen mitbringen.
 
 ---
 

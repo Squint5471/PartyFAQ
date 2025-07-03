@@ -110,7 +110,6 @@ body {
   letter-spacing: 1px;
 }
 
-
 /* Search Styling - Verbessert */
 .sidebar .search {
   margin: 1rem 0 2rem 0 !important;
@@ -170,4 +169,18 @@ body {
 
 .docsify-top-banner {
   z-index: 1003 !important; /* Höher als alle anderen Elemente */
+}
+
+/* Links dunkelblau und unterstrichen */
+a {
+  color: #0747a6;
+  text-decoration: underline;
+  text-decoration-color: #0747a6;
+}
+
+a:hover,
+a:focus {
+  color: #05336e;
+  text-decoration: underline;
+  text-decoration-color: #05336e;
 }
