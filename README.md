@@ -76,14 +76,14 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 ## 🎁 Geschenke?
 
 Dein Kommen ist Geschenk genug.
-Wenn du dennoch etwas beisteuern willst:
+Wenn du dennoch etwas beisteuern willst:<br/>
 **Bring neben Festival-Laune gerne Deko oder etwas zum Teilen wie Salate oder Nachtisch mit. Zusätzlich wird es vor Ort einen PayPal-Link geben, falls du uns unterstützen möchtest.**
 
 ---
 
 ## ⚽ Spiele
 
-Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen.<br/><br/>
+Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen.  
 **Bringt gerne Spielgeräte wie Bälle, Netze usw mit!**
 
 ---
