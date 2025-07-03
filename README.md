@@ -56,18 +56,18 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 
 **<u>Wir kümmern uns um:</u>**
 
-- Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
-- Beilagen (Brötchen, Kartoffelsalat, Soßen)
-- Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
-- Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)
+**- Grill-Möglichkeiten (mehrere Gasgrills vor Ort)**
+**- Beilagen (Brötchen, Kartoffelsalat, Soßen)**
+**- Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)**
+**- Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)**
 
 **<u>Von euch mitzubringen:</u>**
 
 Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹  
 
-- Grillgut, Snacks, Salate oder Nachtisch
-- Schnaps und besondere Misch-Getränke
-- Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
+**- Grillgut, Snacks, Salate oder Nachtisch**
+**- Schnaps und besondere Misch-Getränke**
+**- Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)**
 
 🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
 
@@ -85,29 +85,30 @@ Wenn du dennoch etwas beisteuern willst:
 ## ⚽ Spiele
 
 Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen.
-Bringt gerne Spielgeräte wie Bälle, Netze usw mit!
+**Bringt gerne Spielgeräte wie Bälle, Netze usw mit!**
 
 ---
 
 ## 🎶 Musik & Vibes
 
-Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.
-**Freut euch auf einen Überraschungs-DJ der uns einheizen wird!**
+Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.<br/>
+**Freut euch auf einen Überraschungs-DJ der uns einheizen wird!**<br/>
 Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.
 
 ---
 
 ## 👕 Dresscode?
 
-Festival-Style - Alles ist erlaubt!
-Bequem, wetterfest, tanzbar.  
+Festival-Style - Alles ist erlaubt!<br/>
+Bequem, wetterfest, tanzbar.<br/>
 Abends wird’s frisch – leichte Jacke einpacken!
 
 ---
 
 ## 🧒 Kids & Dogs?
 
-Kinder willkommen!<br/>Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
+Kinder willkommen!<br/>
+Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
 
 ---
 
