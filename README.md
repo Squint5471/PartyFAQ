@@ -31,9 +31,12 @@ Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Ad
 
 ## 🛏️ Übernachten?
 
-Selbstverständlich - ob Zelt, Camper oder mit der Isomatte im Vereinsheim - alles ist willkommen.
+Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vereinsheim - alles ist willkommen.
+
+## 😊 Sonstige Ausstattung
 
 🧼 Sanitär? Natürlich! Voll ausgestattet im Sportheim – sogar mit Duschen.
+Biergarnituren? Klar, die gibt's auch! Für noch mehr Komfort könnt ihr gerne eigene Campingstühle oder -liegen mitbringen.
 
 ---
 
