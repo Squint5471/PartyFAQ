@@ -84,7 +84,7 @@ Wenn du dennoch etwas beisteuern willst:
 
 ## ⚽ Spiele
 
-Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen.
+Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder Kollektivspiele! Einfach mitmachen, worauf ihr Lust habt, oder entspannt abhängen.<br/>
 **Bringt gerne Spielgeräte wie Bälle, Netze usw mit!**
 
 ---
