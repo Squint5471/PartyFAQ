@@ -18,7 +18,8 @@ Gastgeber: Markus, Christian, Frank & Sebastian
 
 **After hour:**  
 🕑 Sonntag, 03.08.  
-Ausklingen, ausschlafen, abbauen, abhängen angesagt 😊
+Gastgeber: Markus, Christian, Frank & Sebastian  
+Ausschlafen, ausklingen, abbauen, abhängen ist angesagt 😊
 
 ---
 
