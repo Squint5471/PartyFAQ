@@ -127,7 +127,7 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 
 - **Wann:** 01.08. - 03.08.2025
 - **Wo:** Siehe WhatsApp-Community; Parkplätze vorhanden
-- **Übernachten:** Ja, vor Ort in Zelt/Sportheim/Camper möglich
+- **Übernachten:** Ja, vor Ort in Zelt, Sportheim, Camper möglich
 - **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
 - **Wetterschutz:** Pavillons, Vordach & Vereinsheim nutzbar
 - **Geschenke:** Dein Kommen ist Geschenk genug...aber Salate, Deko oder PayPal-Unterstützungen sind willkommen
