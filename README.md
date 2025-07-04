@@ -125,7 +125,7 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 ## 🚀 Die Kurzfassung für alle mit der Aufmerksamkeit eines Goldfischs 😄
 
 - **Wann:**
-  01.08. (Frank & Sebastian)
+  01.08. (Frank & Sebastian)  
   02.08 - 03.08.2025 (Markus, Christian, Frank & Sebastian)
 - **Wo:** Siehe WhatsApp-Community; Parkplätze vorhanden
 - **Übernachten:** Ja, vor Ort in Zelt, Sportheim, Camper möglich
