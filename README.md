@@ -6,7 +6,7 @@ Willkommen beim FOURTYVAL! Wir sind Sebastian, Frank, Christian und Markus und h
 
 ---
 
-## 🗓️ Wann genau?
+## 🗓️ Datum & Zeit
 
 **Opening:**  
 🕕 Freitag, 01.08. ab 18:00 Uhr  
@@ -23,13 +23,13 @@ Ausschlafen, ausklingen, abbauen, abhängen ist angesagt 😊
 
 ---
 
-## 📍 Wo?
+## 📍 Ort
 
 Wir feiern auf einem kompletten Sportgelände (inkl. Vereinsheim). Die genaue Adresse und den exakten Standort 📌 findest du in der WhatsApp-Community. Parkmöglichkeiten sind vor Ort ausreichend vorhanden.
 
 ---
 
-## 🛏️ Übernachten?
+## 🛏️ Übernachten
 
 Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vereinsheim - alles ist willkommen.
 
@@ -53,7 +53,7 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 
 ---
 
-## 🍔 Was gibt’s zu essen & trinken?
+## 🍔 Essen & Trinken
 
 **<u>Wir kümmern uns um:</u>**
 
@@ -74,7 +74,7 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 
 ---
 
-## 🎁 Geschenke?
+## 🎁 Geschenke
 
 Dein Kommen ist Geschenk genug.
 Wenn du dennoch etwas beisteuern willst:  
@@ -89,7 +89,7 @@ Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder 
 
 ---
 
-## 🎶 Musik & Vibes
+## 🎶 Musik
 
 Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.  
 Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.  
@@ -97,7 +97,7 @@ Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.
 
 ---
 
-## 👕 Dresscode?
+## 👕 Dresscode
 
 Festival-Style - Alles ist erlaubt!  
 Bequem, wetterfest, tanzbar.  
@@ -105,7 +105,7 @@ Abends wird’s frisch – leichte Jacke einpacken!
 
 ---
 
-## 🧒 Kids & Dogs?
+## 🧒 Kids & Dogs
 
 Kinder willkommen!  
 Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
@@ -125,7 +125,9 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 
 ## 🚀 Die Kurzfassung für alle mit der Aufmerksamkeit eines Goldfischs 😄
 
-- **Wann:** 01.08. - 03.08.2025
+- **Wann:**
+  01.08. (Frank & Sebastian)
+  02.08 - 03.08.2025 (Markus, Christian, Frank & Sebastian)
 - **Wo:** Siehe WhatsApp-Community; Parkplätze vorhanden
 - **Übernachten:** Ja, vor Ort in Zelt, Sportheim, Camper möglich
 - **Essen/Trinken:** Basics gestellt, Grillgut & Spezialgetränke selbst mitbringen
