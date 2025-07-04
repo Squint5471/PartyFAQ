@@ -113,7 +113,7 @@ Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
 
 ## 📞 Kontakt
 
-Fragen? Melde dich gerne direkt bei deinen Fourtyval-Gastgebern oder in der WhatsApp-Community.
+Fragen? Melde dich gerne direkt bei deinen FOURTYVAL-Gastgebern oder in der WhatsApp-Community.
 
 ---
 
