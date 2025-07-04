@@ -1,9 +1,8 @@
 # 🎪 FOURTYVAL – FAQ zum Geburtstagsfestival
 
 **01.08. – 03.08.2025**  
-📍 *Festival-Gelände (siehe WhatsApp-Community)*
 
-Welcome to FOURTYVAL - wir feiern nicht nur einen Geburtstag, sondern 4 x 4 Jahrzehnte!
+Willkommen beim FOURTYVAL! Wir sind Sebastian, Frank, Christian und Markus und haben alle 2025 unseren 40. Geburtstag und das feiern wir gemeinsam mit euch!
 
 ---
 
@@ -11,11 +10,11 @@ Welcome to FOURTYVAL - wir feiern nicht nur einen Geburtstag, sondern 4 x 4 Jahr
 
 **Opening:**  
 🕕 Freitag, 01.08. ab 18:00 Uhr  
-Mit: Frank & Sebastian
+Gastgeber: Frank & Sebastian
 
 **Main Event:**  
 🕑 Samstag, 02.08. ab 14:00 Uhr  
-Mit: Markus, Christian, Frank & Sebastian
+Gastgeber: Markus, Christian, Frank & Sebastian
 
 **After hour:**  
 🕑 Sonntag, 03.08.  
