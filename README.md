@@ -131,9 +131,5 @@ Deine FOURTYVAL-Crew Markus, Christian, Frank & Sebastian
 - **Wetterschutz:** Pavillons, Vordach & Vereinsheim nutzbar
 - **Geschenke:** Dein Kommen ist Geschenk genug...aber Salate, Deko oder PayPal-Unterstützungen sind willkommen
 - **Musik:** House, Hip Hop, Techno
-- **Wichtig:** Kinder willkommen  
-  
-  
-
-
-    
+- **Wichtig:** Kinder willkommen
+<br/><br/><br/><br/><br/>
