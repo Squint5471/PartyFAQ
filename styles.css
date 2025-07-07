@@ -1,3 +1,4 @@
+/* 🌅 Hintergrund und Grundlayout */
 body {
   background-image: url('background.jpg');
   background-size: cover;
@@ -17,11 +18,12 @@ body {
   z-index: 998 !important; /* Niedriger als Banner */
 }
 
+/* 🧭 Sidebar */
 .sidebar {
   background-color: #1a2634;
   color: #a8c5e0;
-  top: 0 !important; /* Geändert von 33px zu 0 */
-  height: calc(100vh) !important; /* Volle Höhe */
+  top: 0 !important;
+  height: calc(100vh) !important;
   margin-top: 0 !important;
   padding-top: 2rem !important;
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.1);
@@ -50,6 +52,7 @@ body {
   transform: translateX(4px);
 }
 
+/* 🍔 Sidebar Toggle Button */
 .sidebar-toggle {
   background-color: #1a2634;
   color: #a8c5e0 !important;
@@ -87,33 +90,14 @@ body {
 	}
 }
 
-/* Banner Styling */
-#TOPBANNER {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 3rem;
-  width: 100%;
-  padding: 0 350px;
-  top: 0;
-  background-color: #e3efff !important;
-}
-#TOPBANNER p {
-  margin: 0;
-  display: flex;
-  align-items: center;
-  height: 100%;
-}
-#TOPBANNER a {
-  margin: auto 5px;
-  font-size: 1.1rem;
-  letter-spacing: 1px;
-}
-
-/* Search Styling - Verbessert */
+/* 🔍 Sidebar Search */
 .sidebar .search {
-  margin: 1rem 0 2rem 0 !important;
-  padding: 0 1rem !important;
+  margin: 1rem 0 1.2rem 0 !important; /* Weniger Abstand nach unten */
+  padding: 0 1.5rem 0 1rem !important; /* Rechts mehr Abstand */
+  box-sizing: border-box !important;
+  /* Abstand zur Trennlinie */
+  border-bottom: 1px solid rgba(255,255,255,0.10);
+  padding-bottom: 0.7rem !important;
 }
 
 .sidebar .search input[type="search"] {
@@ -137,6 +121,7 @@ body {
   color: rgba(255, 255, 255, 0.5) !important;
 }
 
+/* 📋 Results Panel */
 .sidebar .results-panel {
   background: #233446 !important;
   color: #ffffff !important;
@@ -167,20 +152,49 @@ body {
   color: rgba(255, 255, 255, 0.8) !important;
 }
 
-.docsify-top-banner {
-  z-index: 1003 !important; /* Höher als alle anderen Elemente */
-}
-
-/* Links dunkelblau und unterstrichen */
+/* 🔗 Link Design */
 a {
   color: #0747a6;
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-color: #0747a6;
 }
 
 a:hover,
 a:focus {
   color: #05336e;
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-color: #05336e;
+}
+
+/* 🎉 Floating action button FAB */
+.party-faq-fab {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 12px 20px;
+  font-size: 15px;
+  font-weight: 500;
+  color: white;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border: none;
+  border-radius: 999px;
+  text-decoration: none;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  z-index: 1004;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+/* Hover-Effekt */
+.party-faq-fab:hover {
+  transform: scale(1.06);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.4);
+}
+
+.party-faq-fab:active {
+  transform: scale(0.95);
 }
