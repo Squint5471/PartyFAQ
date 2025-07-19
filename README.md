@@ -77,7 +77,7 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 
 Dein Kommen ist Geschenk genug.
 Wenn du dennoch etwas beisteuern willst:  
-**Bring neben Festival-Laune gerne Deko oder etwas zum Teilen wie Salate oder Nachtisch mit. Vor Ort wird es außerdem einen PayPal-Link geben, falls du uns unterstützen möchtest.**
+**Bring neben Festival-Laune gerne Deko oder etwas zum Teilen wie Salate oder Nachtisch mit. Vor Ort wird es außerdem einen PayPal-Link sowie eine Spendenbox geben, falls du uns unterstützen möchtest.**
 
 ---
 
@@ -106,7 +106,8 @@ Abends wird’s frisch – leichte Jacke einpacken!
 
 ## 🧒 Kids & Dogs
 
-Kinder willkommen!  
+Kinder willkommen! Besonders Samstag tagsüber freuen wir uns auf ein familiäres Miteinander - es wird Spiel & Spaß geboten.
+Gehörschutz für die Kleinsten ist lediglich direkt auf der Tanzfläche notwendig und bitte selbst mitzubringen.  
 Hunde oder andere Haustiere? Wenn möglich, bitte besser zuhause lassen 🐶
 
 ---
