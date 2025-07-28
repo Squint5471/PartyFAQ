@@ -52,24 +52,39 @@ Selbstverständlich - ob Zelt 🏕️, Camper 🚐 oder mit der Isomatte im Vere
 
 ---
 
+## 🌱 Nachhaltigkeit
+
+Lasst uns gemeinsam dafür sorgen, das Festival möglichst umweltfreundlich zu gestalten:
+
+- **Fahrgemeinschaften bilden:** Schließt euch zusammen und kommt gemeinsam – das spart CO₂ und Parkplätze!  
+Sprecht uns gerne an, wenn ihr Mitfahrgelegenheiten sucht oder anbieten könnt.
+- **Müllvermeidung:** Wir nutzen Mehrweg-Geschirr und -Becher, um Müll zu reduzieren.  
+Bevorzugt bitte Mehrweg-Behälter für eure Kuchen und Salate.  
+- **Lebensmittel:** Bringt gerne auch etwas zum Einpacken der Reste mit.  
+
+Gemeinsam schaffen wir ein nachhaltiges Festival-Erlebnis! 💚
+
+---
+
 ## 🍔 Essen & Trinken
 
 **<u>Wir kümmern uns um:</u>**
 
-- Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
+- Nur **Freitags**: Chili con/sin Carne
+- Nur **Samstags**: Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
-- Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Marmelade)
+- Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Wurst, Marmelade)
 
 **<u>Von euch mitzubringen:</u>**
 
 Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰🍹  
 
-- Grillgut, Snacks, Salate oder Nachtisch
+- **Grillgut**, Snacks, Salate oder Nachtisch
 - Schnaps und besondere Misch-Getränke
 - Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
 
-🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen.
+🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen. Bring hierfür am besten einen Korb oder eine Tasche mit, die du leicht wiedererkennst.
 
 ---
 
@@ -92,7 +107,7 @@ Lockere Spiele und spontane Challenges - alles freiwillig, keine Vorträge oder 
 
 Es wird hauptsächlich elektronische Musik laufen – tagsüber House, abends Hip Hop und Techno.  
 Wir feiern draußen, mitten im Grünen, unter Lichterketten und zwischen Zelten.  
-**Freut euch auf einen Überraschungs-DJ, der uns einheizen wird!**
+**Freut euch auf Überraschungs-DJs, die uns einheizen werden!**
 
 ---
 
