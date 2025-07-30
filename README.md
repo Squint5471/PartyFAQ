@@ -68,7 +68,7 @@ Lasst uns gemeinsam dafür sorgen, das Festival möglichst umweltfreundlich zu g
 
 - **Fahrgemeinschaften bilden:** Schließt euch zusammen und kommt gemeinsam – das spart CO₂ und Parkplätze!  
 Sprecht uns gerne an, wenn ihr Mitfahrgelegenheiten sucht oder anbieten könnt.
-- **Müllvermeidung:** Wir nutzen Mehrweg-Geschirr und -Becher, um Müll zu reduzieren.  
+- **Müllvermeidung:** Wir haben Mehrweg-Geschirr und -Becher für euch, um Müll zu reduzieren.  
 Bevorzugt bitte Mehrweg-Behälter für eure Kuchen und Salate.  
 - **Lebensmittel:** Bringt gerne auch etwas zum Einpacken der Reste mit.  
 
