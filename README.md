@@ -84,6 +84,7 @@ Gemeinsam schaffen wir ein nachhaltiges Festival-Erlebnis! 💚
 - Nur **Samstags**: Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
+![Getränke](./img/drinks.jpeg)
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Wurst, Marmelade)
 
 **<u>Von euch mitzubringen:</u>**
