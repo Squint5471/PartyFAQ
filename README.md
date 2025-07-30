@@ -31,9 +31,9 @@ Parkmöglichkeiten sind vor Ort ausreichend vorhanden:
 
 - PKWs (lila) - bitte nur an einer Seite des Wegesrandes parken  
 - ⁠Camper (dunkelblau / normale Größe) - Anfahrt durch den Obstgarten / Abstellen direkt am Fußballplatz  
-- ⁠Camper (hellblau / LKW-ähnlich) - Anfahrt am Obstgarten vorbei - Abstellen im hohen Gras  
+- ⁠Camper (hellblau / LKW-ähnlich) - Anfahrt am Obstgarten vorbei - Abstellen im hohen Gras
+<img src="./img/parking.jpeg" alt="Übersichtskarte Parken" width="300"/>
 
-![Übersichtskarte Parken](./img/parking.jpeg)
 
 **Wichtig ist, dass wir alle - aber auch die örtliche Bevölkerung - jederzeit uneingeschränkt am Gelände vorbei fahren können.**
 
@@ -84,7 +84,7 @@ Gemeinsam schaffen wir ein nachhaltiges Festival-Erlebnis! 💚
 - Nur **Samstags**: Grill-Möglichkeiten (mehrere Gasgrills vor Ort)
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
-![Getränke](./img/drinks.jpeg)
+<img src="./img/drinks.jpeg" alt="Getränke" width="300"/>
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Wurst, Marmelade)
 
 **<u>Von euch mitzubringen:</u>**
