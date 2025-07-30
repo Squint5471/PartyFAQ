@@ -85,7 +85,6 @@ Gemeinsam schaffen wir ein nachhaltiges Festival-Erlebnis! 💚
 - Beilagen (Brötchen, Kartoffelsalat, Soßen)
 - Getränke (Bier mit/ohne Alkohol, Wein, Secco, Cola, Limo, Wasser)
 ![Getränke](./img/drinks.jpeg)
-Für alle Aperol-Fans: Secco, Mineralwasser und frische Orangen stellen wir bereit. Da es lediglich zum Start eine Aperol-Basis geben wird - bringt gerne zusätzlichen Aperol mit!  
 - Frühstück für die Übernachtungsgäste (Kaffee, Brötchen, Butter, Käse, Wurst, Marmelade)
 
 **<u>Von euch mitzubringen:</u>**
@@ -94,6 +93,7 @@ Bring mit, was du besonders magst oder was du mit anderen teilen möchtest 🍰�
 
 - **Grillgut**, Snacks, Salate oder Nachtisch
 - Schnaps und besondere Misch-Getränke
+- Für alle Aperol-Fans: Secco, Mineralwasser und frische Orangen stellen wir bereit. Da es lediglich zum Start eine Aperol-Basis geben wird - bringt gerne zusätzlichen Aperol mit!  
 - Eure Frühstücks-Lieblinge (z.B. Müsli, Joghurt, Obst)
 
 🧊 Damit alles frisch bleibt, kannst du vor Ort den Kühlraum nutzen. Bring hierfür am besten einen Korb oder eine Tasche mit, die du leicht wiedererkennst.
